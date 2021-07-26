@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VitalPixels", "VitalPixels\VitalPixels.csproj", "{29C13109-449C-4071-A3C5-10E1BD2D7F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPFilter", "..\VitalPoints\VPFilter\VPFilter.csproj", "{977819ED-4757-4669-A2DF-3C38B492EB77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPCompile", "VPCompile\VPCompile.csproj", "{74456B89-0F0E-420D-B748-5DBA14823680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateVP", "UpdateVP\UpdateVP.csproj", "{9CA93D5E-88AE-450D-93A4-CD237D0B5F96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{598ACCDC-9047-49F8-8A89-6EF63C68CAF8}"
+	ProjectSection(SolutionItems) = preProject
+		ReleaseNote.txt = ReleaseNote.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunVitalPixels", "RunVitalPixels\RunVitalPixels.csproj", "{62BCFACA-1770-40BA-BCFC-4352733D0B22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C13109-449C-4071-A3C5-10E1BD2D7F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C13109-449C-4071-A3C5-10E1BD2D7F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C13109-449C-4071-A3C5-10E1BD2D7F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C13109-449C-4071-A3C5-10E1BD2D7F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{977819ED-4757-4669-A2DF-3C38B492EB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977819ED-4757-4669-A2DF-3C38B492EB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977819ED-4757-4669-A2DF-3C38B492EB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977819ED-4757-4669-A2DF-3C38B492EB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74456B89-0F0E-420D-B748-5DBA14823680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74456B89-0F0E-420D-B748-5DBA14823680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74456B89-0F0E-420D-B748-5DBA14823680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74456B89-0F0E-420D-B748-5DBA14823680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CA93D5E-88AE-450D-93A4-CD237D0B5F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA93D5E-88AE-450D-93A4-CD237D0B5F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA93D5E-88AE-450D-93A4-CD237D0B5F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA93D5E-88AE-450D-93A4-CD237D0B5F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BCFACA-1770-40BA-BCFC-4352733D0B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BCFACA-1770-40BA-BCFC-4352733D0B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BCFACA-1770-40BA-BCFC-4352733D0B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BCFACA-1770-40BA-BCFC-4352733D0B22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
