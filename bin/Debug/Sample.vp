@@ -1,0 +1,26 @@
+
+#region a
+
+
+for (int y = 0; y < OutputImage.Height; y++)
+{ 
+    for (int x = 0; x < OutputImage.Width; x++)
+    {
+
+        Color c = ((Bitmap) InputImage).GetPixel(x, y);
+        
+         int luma = ((c.R)+(c.B)+(c.G))/3;
+
+         OutputImage.SetPixel(x, y, Color.FromArgb(c.R,0,0));
+         
+         //OutputImage.SetPixel(x, y, Color.FromArgb(luma,luma,luma));
+    }  
+ }        
+ 
+
+ 
+ 
+ argMessage = "Output Message";
+ 
+#endregion
+   

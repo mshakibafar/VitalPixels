@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<CMyDLL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AllRef>
+    <OneDLL>
+      <FileName>AForge.dll</FileName>
+      <Chosen>true</Chosen>
+    </OneDLL>
+    <OneDLL>
+      <FileName>AForge.Imaging.dll</FileName>
+      <Chosen>true</Chosen>
+    </OneDLL>
+    <OneDLL>
+      <FileName>AForge.Math.dll</FileName>
+      <Chosen>true</Chosen>
+    </OneDLL>
+    <OneDLL>
+      <FileName>Spire.Barcode.dll</FileName>
+      <Chosen>true</Chosen>
+    </OneDLL>
+  </AllRef>
+</CMyDLL>

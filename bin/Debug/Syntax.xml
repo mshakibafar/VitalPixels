@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<doc>
+  <style name="Red" color="Red" backColor="#f5f5e5" />
+  <rule style="Red" options="Multiline">RED</rule>
+</doc>
