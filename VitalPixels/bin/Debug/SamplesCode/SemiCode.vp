@@ -1,0 +1,26 @@
+#region a
+
+for (int y = 0; y < OutputImage.Height; y++)
+{ 
+    for (int x = 0; x < OutputImage.Width; x++)
+        
+    {
+
+        Color c = ((Bitmap) InputImage).GetPixel(x, y);
+        
+        //  int luma = ((c.R)+(c.B))/2;
+        // if(c.R>150)
+        OutputImage.SetPixel(x, y, Color.FromArgb(c.G,c.R,c.B));
+             //    else 
+             //     if(c.B<100)
+              //  OutputImage.SetPixel(x, y, Color.FromArgb(c.R, luma,0)); 
+                // else
+                //  OutputImage.SetPixel(x, y, Color.FromArgb(c.G, c.R,c.B)); 
+    }  
+}        
+
+ 
+        argMessage = "To DO";
+ 
+#endregion
+   

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<AllRefrences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AllRef>
+    <CGACSettings>
+      <RefrenceName>mscorlib.dll</RefrenceName>
+      <NameSP />
+    </CGACSettings>
+    <CGACSettings>
+      <RefrenceName>System.dll</RefrenceName>
+      <NameSP />
+    </CGACSettings>
+    <CGACSettings>
+      <RefrenceName>System.Drawing.dll</RefrenceName>
+      <NameSP />
+    </CGACSettings>
+  </AllRef>
+</AllRefrences>
