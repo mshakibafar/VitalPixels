@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VitalPixels", "VitalPixels\VitalPixels.csproj", "{29C13109-449C-4071-A3C5-10E1BD2D7F70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPFilter", "..\VitalPoints\VPFilter\VPFilter.csproj", "{977819ED-4757-4669-A2DF-3C38B492EB77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPFilter", "VPFilter\VPFilter.csproj", "{977819ED-4757-4669-A2DF-3C38B492EB77}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPCompile", "VPCompile\VPCompile.csproj", "{74456B89-0F0E-420D-B748-5DBA14823680}"
 EndProject
