@@ -26,3 +26,6 @@ This software saves result of your algorithms in xml so you can analysis result 
 Official Website: http://www.vitalpixels.com/
 
 User Manual: http://www.vitalpixels.com/help/
+
+Download: https://vital-pixels.software.informer.com/
+
