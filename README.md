@@ -30,7 +30,7 @@ User Manual: http://www.vitalpixels.com/help/
 Download: https://vital-pixels.software.informer.com/
 
 
-#Review in Softpedia about vital Pixels:
+# Review in Softpedia about vital Pixels:
 Develop, edit, analyze and debug image processing algorithms, with this powerful Integrated Development Environment that includes a set of simple image editing tools
 
 Vital Pixels is an Integrated Development Environment (IDE) designed to help you create and analyze image processing algorithms. It includes a number of tools for debugging your code, and it also allows you to perform some basic image editing operations.
@@ -53,3 +53,6 @@ As you can probably imagine, Vital Pixels is a program aimed at experienced deve
 Nevertheless, a user manual can come in handy no matter how knowledgeable you are, and it can make it a lot easier for novices to get the hang of things. Thankfully, there is extensive documentation available, detailing every aspect of the application's functionality.
 
 All in all, Vital Pixels is a complex Integrated Development Environment intended for creating and analyzing image processing algorithms. It offers an impressive collection of features, along with some basic image editing tools, while also providing you with a detailed user manual.
+https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/Vital-Pixels.shtml#disqus_thread
+
+
